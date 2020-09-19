@@ -1,7 +1,7 @@
 ---
-title: Lerntagebuch
+title: LerntageBlog von Alex
 ---
 
-## Willkommen zu meinem Lerntagebuch
+## Not another blog ...
 
-Ich freue mich, dass Du da bist. Ich schreibe hier über meine Erfahrungen im Kurs **Bibliotheks- und Archivinformatik**.
+Spannendes, Zusammenfassendes, Fragendes, Kurioses, Verwirrendes zum Kurs **Bibliotheks- und Archivinformatik** von einer IW-Studentin.
