@@ -1,7 +1,5 @@
 ---
-title: LerntageBlog von Alex
+title: LerntageBlog
 ---
 
-## Not another blog ...
-
-Spannendes, Zusammenfassendes, Fragendes, Kurioses, Verwirrendes zum Kurs **Bibliotheks- und Archivinformatik** von einer IW-Studentin.
+Not another blog??? Trotzdem: Spannendes, Zusammenfassendes, Fragendes, Kurioses, Verwirrendes zum Kurs **Bibliotheks- und Archivinformatik** von einer IW-Studentin.
