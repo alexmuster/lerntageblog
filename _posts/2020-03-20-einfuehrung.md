@@ -15,10 +15,10 @@ Jedoch merkte ich dann, dass mir die Programmier- und Informatiklogiken und ab e
 
 Deshalb der Entscheid zur Vertiefungsrichtung Bibliotheksmanagement, bei der die sozialen und pädagogischen Komponenten noch etwas mehr im Vordergrund stehen.
 
-**Erfahrung mit Bibliotheks- oder Archivsoftware:**
+## **Erfahrung mit Bibliotheks- oder Archivsoftware:**
 Wie erwähnt, arbeiten wir an der HSLU mit der Bibliothekssoftware Aleph. Ich hatte einen steilen aber guten Einstieg und komme mit allen Modul gut zurecht. Aber eben halt nur als Oberflächen-Anwenderin. Im Bibliotheksverbund Luzern kümmert sich ein kleines Team von Systembibliothekaren um alles was „dahinter“ läuft. Ausserdem bin ich zuständig für das Hochladen der studentischen Arbeiten in das Luzerner Repository (läuft über Zenodo).
 
-**Motivation / Erwartungen:**
+## **Motivation / Erwartungen:**
 Nach einem ersten Blick auf die Modulinhalte und die Lernziele, freue ich mich auf Themen wie Suchmaschinen und Discovery-Systeme, die ich gerne besser verstehen würde (das Modul Information Retrieval war sehr spannend, aber leider sehr theoretisch). Weiter verspreche ich mir ein besseres Verständnis vom Aufbau der Bibliothekskataloge, gerade auch in Hinblick auf die Einführung von ALMA Ende dieses Jahres. „Unsere“ Bibliothek ist Teil einer grossen Instituion Zone und vieles wird „von oben“ gesteuert werden, trotzdem möchte ich besser verstehen, wie die Daten und Prozesse miteinander zusammenhängen, weil wir ein sehr kleines Team sind und vieles von unserer Effizienz und Flexiblität abhängt. 
 Auch die Metadatenstandards interessieren mich, da ich die Begriffe schon oft gehört habe, aber mir doch nicht wirklich was darunter vorstellen kann. Da freue ich mich auf Praxis- und Anwendungsbeispiele.
 
