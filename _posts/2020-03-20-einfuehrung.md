@@ -3,7 +3,7 @@ title: "Here we go again … ab ins HS 2020"
 date: 2020-09-10
 ---
 
-*Wo bin ich gestartet? Was erwarte von diesem Kurs?*
+*Wo bin ich gestartet? Was erwarte von dem Kurs BAIN?*
 
 Da das Modul *Bibliotheks- und Archivinformatik* in der Vertiefungsrichtung Bibliotheksmanagement, die ich gewählt habe, ein Pflichmodul ist, habe ich mich vor dem Start ehrlich gesagt nicht mit den Modulinhalten auseinandergesetzt. Aber grundsätzlich habe ich mir gedacht, toll, wieder mal ein Informatik-Fach, bei dem es hoffentlich etwas anwendungsorientierter wird mit Übungen und Beispielen aus der Praxis und weniger Theorie und wissenschaftlichem Arbeiten. 
 Es ist nicht so, dass mir Schreiben schwer fällt oder ich mich nicht gerne vertieft mit einer Forschungsfrage auseinandersetzte, aber die letzten beiden Semester waren teilweise schon sehr trocken.  
